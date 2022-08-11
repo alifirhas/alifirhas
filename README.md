@@ -5,7 +5,7 @@
     🌱 I’m currently learning Python and Laravel as my skill <br>
     💞️ I’m looking to working or collaborate on system information project <br>
     📧 irhasalif@gmail.com <br>
-    🎨 Portfolio: https://alifirhas.github.io <br>
+    🎨 Portofolio: https://alifirhas.github.io <br>
     💼 LinkedIn: https://www.linkedin.com/in/alif-irhas-0750331b3 <br>
   </samp>
 </p>
